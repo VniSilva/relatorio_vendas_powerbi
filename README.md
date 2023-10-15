@@ -1,1 +1,2 @@
-# relatorio_vendas_powerbi
+# Desafio Dio -> Criando um Relatório de Vendas Elegante com Power BI
+<sub> Santander Bootcamp 2023 - Ciência de Dados com Python </sub>
